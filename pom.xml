@@ -24,7 +24,7 @@
         <springboot.version>2.2.5.RELEASE</springboot.version>
         <fastjson.version>1.2.66</fastjson.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
 
         <!-- 添加后默认以JDK1.8 编译 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
